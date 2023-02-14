@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(16, 16, 16);
+}
+form {
+  display: inline-block;
+}
+form {
+  background-color: rgb(58, 56, 53);
+
+  /* height:300px; */
+  width: 30%;
+  height:180px;
+  padding: 20px;
+  color: aliceblue;
+  border-radius: 10px;
+  
+}
+.content{
+    padding-top: 250px;
+}
+#uname{
+    padding: px;
+    margin: 10px;
+}
+#pass{
+    padding: px;
+    margin: 10px;
+    
+}
+#btn{
+    margin: 20px;;
+    cursor: pointer;
+}
