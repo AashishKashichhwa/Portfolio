@@ -1,0 +1,14 @@
+        .linkedin-link {
+            color: teal !important;
+            text-decoration: none;
+        }
+
+        .linkedin-link:hover {
+            text-decoration: underline;
+        }
+
+        .hr-thick {  /* Custom class for a thicker hr */
+            border: 0;
+            height: 2px;  /* Adjust the height to control thickness */
+            background-color: #333; /* Adjust the color as needed */
+        }
